@@ -1,4 +1,5 @@
 from turtle import *
 shape("turtle")
-forward(100)
+color("cyan")
+forward(200)
 done()
